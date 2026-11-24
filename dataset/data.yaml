@@ -1,0 +1,6 @@
+train: E:/Projects/AI_Traffic/dataset/train/images
+val: E:/Projects/AI_Traffic/dataset/valid/images
+test: E:/Projects/AI_Traffic/dataset/test/images
+
+nc: 1
+names: ['ambulance']
